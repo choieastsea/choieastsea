@@ -15,6 +15,7 @@ Software Engineering (junior in Konkuk university, Seoul)
 
 ## 🫠 My experience …
 
+- Come to my [github blog](https://choieastsea.github.io)!
 - Develop front side of [marathon service](http://dcmarathon.or.kr) since 2021 (with React.js)
 - Develop community app with React Native and Firebase(yet released)
 - [ADsP](https://www.dataq.or.kr/www/sub/a_06.do)
