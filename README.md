@@ -2,13 +2,13 @@
 
 ## 🌱 I’m currently learning...
 
-Software Engineering (junior in Konkuk university, Seoul)
-
+Software Engineering (senior in Konkuk university, Seoul)
 
 
 ## ⚡I’m interested in …
 
-- Service led by front-end
+- User Satisfying Service in diffferent ways
+- Backend Development
 - Data Science
 
 
@@ -16,8 +16,8 @@ Software Engineering (junior in Konkuk university, Seoul)
 ## 🫠 My experience …
 
 - Come to my [github blog](https://choieastsea.github.io/about)!
-- Develop front side of [marathon service](http://dcmarathon.or.kr) since 2021 (with React.js)
-- Develop community app with React Native and Firebase(yet released)
+- Develop front side of [marathon service](http://dcmarathon.or.kr) in 2021,2022 (with React.js)
+- Develop server side of car installment service(pilot project) in 2023 (with Django & DRF)
 - [ADsP](https://www.dataq.or.kr/www/sub/a_06.do)
 
 
@@ -25,13 +25,8 @@ Software Engineering (junior in Konkuk university, Seoul)
 ## 📚What can I do … (not well but can do😅)
 
 <div>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-
-<br />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
@@ -43,9 +38,8 @@ Software Engineering (junior in Konkuk university, Seoul)
 
 <br />
 
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
-<img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 </div>
