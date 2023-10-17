@@ -9,6 +9,7 @@ Software Engineering (senior in Konkuk university, Seoul)
 
 - User Satisfying Service in diffferent ways
 - Backend Development
+- Deploying into Cloud Service 
 - Data Science
 
 
@@ -30,7 +31,7 @@ Software Engineering (senior in Konkuk university, Seoul)
 
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 
 <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
@@ -41,5 +42,9 @@ Software Engineering (senior in Konkuk university, Seoul)
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+
+<br />
+
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black"/>
 
 </div>
