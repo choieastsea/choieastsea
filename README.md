@@ -2,7 +2,7 @@
 
 ## 🌱 I work at …
 
-gabia cloud development team (2024.04~)
+gabia cloud development team (2024.01~) as BE developer.
 
 ## ⚡I’m interested in …
 
@@ -10,6 +10,7 @@ gabia cloud development team (2024.04~)
 - Backend Development
 - Cloud Service
 - Python
+- AI Agent
 
 ## 🎓 I studied …
 
